@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=🚀+Devra.lk+Software+Engineering;💡+Innovating+Digital+Experiences;⚡+Building+Scalable+Systems;🌍+Your+Trusted+Tech+Partner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=💻+Devra+Software+Engineering+Company;🏢+Enterprice+Digital+Solution;✔️+Building+Scalable+Systems;✔️+Your+Trusted+Tech+Partner" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ To become a globally recognized technology company delivering innovation without
 
 ## 📞 Contact Devra.lk
 <p align="center">
-  📧 <b>Email:</b> devra.software@gmail.com <br>
+  📧 <b>Email:</b> developer@devra.lk <br>
   🌐 <b>Website:</b> https://devra.lk <br>
 </p>
 
